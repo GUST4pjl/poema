@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Poema: Se um dia a juventude voltasse</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        .poema {
+            border: 1px solid #ddd;
+            padding: 10px;
+            background-color: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+    <h1>Se um dia a juventude voltasse</h1>
+    <div class="poema">
+        <p>Se um dia a juventude voltasse</p>
+        <p>Eu ia me encolher</p>
+        <p>Como um balão que se desinfla</p>
+        <p>E ia deixar o espaço livre</p>
+        <p>Para a vida nova</p>
+        <p>Eu ia me fazer um espelho</p>
+        <p>Para ver minha juventude</p>
+        <p>Como um retrato na parede</p>
+        <p>E sentir que a vida é nova</p>
+        <p>Se a juventude voltasse</p>
+        <p>Eu ia me fazer um sorriso</p>
+        <p>Que não tem idade</p>
+        <p>E a vida seria bela</p>
+        <p>Eu ia me fazer um poema</p>
+        <p>Para contar aos outros</p>
+        <p>Que a juventude é um sonho</p>
+        <p>E que o tempo é um amigo</p>
+        <p>Mas se a juventude não voltar</p>
+        <p>Eu vou viver a vida</p>
+        <p>Com o que eu sou</p>
+        <p>E com o que eu tenho</p>
+        <p>Porque a vida é feita</p>
+        <p>De momentos e de amor</p>
+        <p>E a juventude é só um trecho</p>
+        <p>De um livro que eu escrevo</p>
+        <p>Se um dia a juventude voltasse</p>
+        <p>Eu ia saber o que fazer</p>
+        <p>Mas enquanto isso</p>
+        <p>Eu vou vivendo o presente</p>
+        <p>E sendo grato por cada instante</p>
+    </div>
+</body>
+</html>
